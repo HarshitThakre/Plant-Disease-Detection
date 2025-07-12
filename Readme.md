@@ -1,0 +1,1 @@
+This project contains a ml model and a huge datset of plant leaves which will be trained and the model confirms from other sample data that what is the disease a plant is having! You can have a look at the working of this at the following link: https://youtu.be/9gWHkDIk_H0 It contains a webpage which takes a image input and then predicts what kind of disease does the plant has.
